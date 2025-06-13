@@ -1,0 +1,44 @@
+html {
+	height: 100%;
+}
+
+body {
+	height: 90%;
+	color: #93a1a1;
+	background-color: #fdf6e3;
+	text-align: center;
+}
+
+.base00 {
+	color: #657b83;
+}
+
+header {
+	margin-bottom: 0;
+}
+
+.container {
+    height: 80%;
+	padding-top: 5%;
+}
+
+.container img {
+	border-radius: 25%;
+	border: 1px solid #b58900;
+}
+
+.container h2 {
+	margin-bottom: 0;
+}
+.container p {
+	margin-top: 0;
+	font-size: 1.2rem;
+}
+footer {
+	color: #b58900;
+	position: absolute;
+  	left: 0;
+  	bottom: 0;
+  	width: 100%;
+}
+
